@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+}
+#h1 {
+
+    /* color: rgb(204, 144, 228); */
+    /* color: #E0B1CB; */
+    /* text-align: center; */
+    text-decoration: burlywood wavy underline;
+    font-weight: normal;
+    color:coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h2 {
+    font-weight: bold;
+    font-family: fantasy;
+    color:coral;
+}
+#h3 {
+    font-weight: lighter;
+    color:coral;
+}
+#h4 {
+    font-weight: 900;
+    color:coral;
+}
+#One{
+    /* color: rgb(0, 255, 170); */
+    color:beige;
+    text-align: left;
+    font-family:cursive;
+}
+a{
+text-decoration: dotted underline;
+}
+#two{
+    color: crimson;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+#Three{
+    text-transform: lowercase;
+    line-height: 30px;
+    color: darkkhaki;
+}
+/* button{
+     color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 170); 
+    color: #BE95C4;
+    background-color: #5E548E;
+}
+body{
+    background-color: #231942;
+}
+#headingOne{
+    color: #BE95C4;
+}
+#headingTwo{
+    color:lightsalmon;
+}
+ #headingThree{
+    color:coral;
+} 
+.myClass{
+    color: aquamarine;
+} */
